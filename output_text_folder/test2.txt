@@ -1,0 +1,31 @@
+2022年12月14日 15:02:49
+検索先プレイリスト:Viral 50 - Japan
+検索先プレイリスト:Top 50 - Japan
+検索先プレイリスト:Discover Weekly
+ひとくちのキス
+{"danceability": 0.79, "energy": 0.808, "key": 7, "loudness": -4.051, "mode": 1, "speechiness": 0.134, "acousticness": 0.0297, "instrumentalness": 0, "liveness": 0.06, "valence": 0.821, "tempo": 120.003, "type": "audio_features", "id": "1TYSgBF0FdqmiddlHsdRSk", "uri": "spotify:track:1TYSgBF0FdqmiddlHsdRSk", "track_href": "https://api.spotify.com/v1/tracks/1TYSgBF0FdqmiddlHsdRSk", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1TYSgBF0FdqmiddlHsdRSk", "duration_ms": 197500, "time_signature": 4}
+Just be Blue
+{"danceability": 0.722, "energy": 0.688, "key": 11, "loudness": -6.935, "mode": 1, "speechiness": 0.0714, "acousticness": 0.227, "instrumentalness": 0, "liveness": 0.116, "valence": 0.763, "tempo": 114.98, "type": "audio_features", "id": "40EILmSfgFpQb5c5LnHAiP", "uri": "spotify:track:40EILmSfgFpQb5c5LnHAiP", "track_href": "https://api.spotify.com/v1/tracks/40EILmSfgFpQb5c5LnHAiP", "analysis_url": "https://api.spotify.com/v1/audio-analysis/40EILmSfgFpQb5c5LnHAiP", "duration_ms": 241451, "time_signature": 4}
+Talking Box (Dirty Pop Remix)
+{"danceability": 0.787, "energy": 0.664, "key": 1, "loudness": -6.487, "mode": 1, "speechiness": 0.0642, "acousticness": 0.109, "instrumentalness": 8.55e-05, "liveness": 0.0728, "valence": 0.597, "tempo": 140.028, "type": "audio_features", "id": "5mqucSnaCVI1kW6ewrXYE2", "uri": "spotify:track:5mqucSnaCVI1kW6ewrXYE2", "track_href": "https://api.spotify.com/v1/tracks/5mqucSnaCVI1kW6ewrXYE2", "analysis_url": "https://api.spotify.com/v1/audio-analysis/5mqucSnaCVI1kW6ewrXYE2", "duration_ms": 128979, "time_signature": 4}
+How to Love (feat. Sofia Reyes)
+{"danceability": 0.673, "energy": 0.894, "key": 0, "loudness": -2.73, "mode": 1, "speechiness": 0.0594, "acousticness": 0.148, "instrumentalness": 3.4e-06, "liveness": 0.141, "valence": 0.63, "tempo": 118.894, "type": "audio_features", "id": "1oUb2nyyq0IWVj1nsuft0H", "uri": "spotify:track:1oUb2nyyq0IWVj1nsuft0H", "track_href": "https://api.spotify.com/v1/tracks/1oUb2nyyq0IWVj1nsuft0H", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1oUb2nyyq0IWVj1nsuft0H", "duration_ms": 219240, "time_signature": 4}
+Overdose
+{"danceability": 0.733, "energy": 0.598, "key": 4, "loudness": -9.453, "mode": 0, "speechiness": 0.0377, "acousticness": 0.0307, "instrumentalness": 1.7e-05, "liveness": 0.218, "valence": 0.831, "tempo": 118.012, "type": "audio_features", "id": "2Dzzhb1oV5ckgOjWZLraIB", "uri": "spotify:track:2Dzzhb1oV5ckgOjWZLraIB", "track_href": "https://api.spotify.com/v1/tracks/2Dzzhb1oV5ckgOjWZLraIB", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Dzzhb1oV5ckgOjWZLraIB", "duration_ms": 197094, "time_signature": 4}
+After Kiss
+{"danceability": 0.751, "energy": 0.726, "key": 11, "loudness": -5.192, "mode": 1, "speechiness": 0.038, "acousticness": 0.217, "instrumentalness": 0, "liveness": 0.248, "valence": 0.875, "tempo": 117.001, "type": "audio_features", "id": "1g0hBXx1GhkGS1yjzgZbku", "uri": "spotify:track:1g0hBXx1GhkGS1yjzgZbku", "track_href": "https://api.spotify.com/v1/tracks/1g0hBXx1GhkGS1yjzgZbku", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1g0hBXx1GhkGS1yjzgZbku", "duration_ms": 250956, "time_signature": 4}
+{"danceability": 0.743, "energy": 0.73, "speechiness": 0.067, "acousticness": 0.127, "liveness": 0.143, "valence": 0.753, "tempo": 0.416}
+-----------------------------------------------
+検索先プレイリスト1
+name: 幸せについて、僕が考えたこと(井上絃)https://open.spotify.com/track/6mSEjbUiozXLfpBRJS1wjz
+処理が終了しました。
+-----------------------------------------------
+検索先プレイリスト2
+name: ダンスホール(Mrs. GREEN APPLE)https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz
+name: Dynamite(BTS)https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW
+処理が終了しました。
+-----------------------------------------------
+検索先プレイリスト3
+name: どうでもいいよ(POLKADOT STINGRAY)https://open.spotify.com/track/1rVCDraEhrRzIue36gNu6x
+name: ラッキー・ドライブ(Gimgigam)https://open.spotify.com/track/5jVLMsrAd0gtx6UqlC0NMF
+処理が終了しました。

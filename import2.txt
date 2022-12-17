@@ -1,0 +1,9 @@
+m1 https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID?si=db62dff0558443c4
+m2 https://open.spotify.com/track/3Ht2iEekMrHRndj0sC5e2X?si=10c3b5e95fc349fc
+m3 https://open.spotify.com/track/1QrR4mWXPY9bLsA4FKYtJF?si=3e706b7f0203419a
+m4 https://open.spotify.com/track/702Kg9Js7KRORDVq9ZopPo?si=568ced015e814b64
+m5 https://open.spotify.com/track/2RdWtPUo9k7HRKxb3sZqQ6?si=8cd714cc1390427a
+m6 https://open.spotify.com/track/3hRRYgBeunE3PTmnzATTS0?si=a971f2731b3b4e6e
+playlist1 https://open.spotify.com/playlist/37i9dQZEVXbKXQ4mDTEBXq?si=f42b982572cc4bc3
+playlist2 https://open.spotify.com/playlist/37i9dQZF1DX328xs24cFGI?si=dc9fca9a5e6348a3
+playlist3 https://open.spotify.com/playlist/37i9dQZF1DX6UkADhBpEnE?si=63d826da451f40f0

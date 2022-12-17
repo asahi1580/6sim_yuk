@@ -1,0 +1,29 @@
+2022年12月15日 13:45:44
+検索先プレイリスト:Top 50 - Japan
+検索先プレイリスト:恋するプレイリスト
+検索先プレイリスト:元気Booster
+BOY
+{"danceability": 0.619, "energy": 0.802, "key": 0, "loudness": -6.618, "mode": 1, "speechiness": 0.0629, "acousticness": 0.0831, "instrumentalness": 0, "liveness": 0.361, "valence": 0.535, "tempo": 109.982, "type": "audio_features", "id": "3oQaOjaIYPsnJbGNzXcIID", "uri": "spotify:track:3oQaOjaIYPsnJbGNzXcIID", "track_href": "https://api.spotify.com/v1/tracks/3oQaOjaIYPsnJbGNzXcIID", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3oQaOjaIYPsnJbGNzXcIID", "duration_ms": 231386, "time_signature": 4}
+カルマ
+{"danceability": 0.422, "energy": 0.885, "key": 6, "loudness": -2.785, "mode": 1, "speechiness": 0.0429, "acousticness": 0.00489, "instrumentalness": 5.83e-05, "liveness": 0.29, "valence": 0.578, "tempo": 97.411, "type": "audio_features", "id": "3Ht2iEekMrHRndj0sC5e2X", "uri": "spotify:track:3Ht2iEekMrHRndj0sC5e2X", "track_href": "https://api.spotify.com/v1/tracks/3Ht2iEekMrHRndj0sC5e2X", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Ht2iEekMrHRndj0sC5e2X", "duration_ms": 209973, "time_signature": 4}
+ray
+{"danceability": 0.61, "energy": 0.92, "key": 3, "loudness": -3.704, "mode": 1, "speechiness": 0.0501, "acousticness": 0.00664, "instrumentalness": 0, "liveness": 0.33, "valence": 0.352, "tempo": 132.234, "type": "audio_features", "id": "1QrR4mWXPY9bLsA4FKYtJF", "uri": "spotify:track:1QrR4mWXPY9bLsA4FKYtJF", "track_href": "https://api.spotify.com/v1/tracks/1QrR4mWXPY9bLsA4FKYtJF", "analysis_url": "https://api.spotify.com/v1/audio-analysis/1QrR4mWXPY9bLsA4FKYtJF", "duration_ms": 300680, "time_signature": 4}
+ガラスのブルース
+{"danceability": 0.479, "energy": 0.883, "key": 1, "loudness": -3.479, "mode": 1, "speechiness": 0.0289, "acousticness": 0.000406, "instrumentalness": 1.83e-06, "liveness": 0.252, "valence": 0.559, "tempo": 90.352, "type": "audio_features", "id": "702Kg9Js7KRORDVq9ZopPo", "uri": "spotify:track:702Kg9Js7KRORDVq9ZopPo", "track_href": "https://api.spotify.com/v1/tracks/702Kg9Js7KRORDVq9ZopPo", "analysis_url": "https://api.spotify.com/v1/audio-analysis/702Kg9Js7KRORDVq9ZopPo", "duration_ms": 378867, "time_signature": 4}
+タマシイレボリューション
+{"danceability": 0.455, "energy": 0.951, "key": 11, "loudness": -2.365, "mode": 0, "speechiness": 0.109, "acousticness": 0.0357, "instrumentalness": 0.000614, "liveness": 0.389, "valence": 0.383, "tempo": 131.814, "type": "audio_features", "id": "2RdWtPUo9k7HRKxb3sZqQ6", "uri": "spotify:track:2RdWtPUo9k7HRKxb3sZqQ6", "track_href": "https://api.spotify.com/v1/tracks/2RdWtPUo9k7HRKxb3sZqQ6", "analysis_url": "https://api.spotify.com/v1/audio-analysis/2RdWtPUo9k7HRKxb3sZqQ6", "duration_ms": 226027, "time_signature": 4}
+天体観測
+{"danceability": 0.366, "energy": 0.949, "key": 1, "loudness": -3.552, "mode": 1, "speechiness": 0.11, "acousticness": 0.381, "instrumentalness": 0, "liveness": 0.0902, "valence": 0.467, "tempo": 164.979, "type": "audio_features", "id": "3hRRYgBeunE3PTmnzATTS0", "uri": "spotify:track:3hRRYgBeunE3PTmnzATTS0", "track_href": "https://api.spotify.com/v1/tracks/3hRRYgBeunE3PTmnzATTS0", "analysis_url": "https://api.spotify.com/v1/audio-analysis/3hRRYgBeunE3PTmnzATTS0", "duration_ms": 263600, "time_signature": 4}
+{"danceability": 0.492, "energy": 0.898, "speechiness": 0.067, "acousticness": 0.085, "liveness": 0.285, "valence": 0.479, "tempo": 0.414}
+-----------------------------------------------
+検索先プレイリスト1
+name: CHAINSAW BLOOD(Vaundy)https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU
+処理が終了しました。
+-----------------------------------------------
+検索先プレイリスト2
+処理が終了しました。
+-----------------------------------------------
+検索先プレイリスト3
+name: Ima Wo Ikirunoda.(Saucy Dog)https://open.spotify.com/track/2TfgEnBBdBvQl7fdMX1Nqy
+name: Celestial(Ed Sheeran)https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7
+処理が終了しました。
