@@ -116,8 +116,8 @@ for a in range(3):
  
   for feature in features:
    feature[T] = t_normal(feature[T])
-   #print(sim_distance(avg_dict,feature))
-   if(sim_distance(avg_dict,feature)) > 0.85:              #6曲の平均とプレイリスト内の曲のユークリッド距離が0.8以上のものを探す
+   print(sim_distance(avg_dict,feature))
+   if(sim_distance(avg_dict,feature)) > 0.83:              #6曲の平均とプレイリスト内の曲のユークリッド距離が0.8以上のものを探す
        # 条件に合致した曲を取得
        match = sp.track(feature['id'])
        match_id_list.append(match['id'])    

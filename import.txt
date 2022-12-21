@@ -1,9 +1,9 @@
-m1 https://open.spotify.com/track/1TYSgBF0FdqmiddlHsdRSk
-m2 https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP
-m3 https://open.spotify.com/track/5mqucSnaCVI1kW6ewrXYE2
-m4 https://open.spotify.com/track/1oUb2nyyq0IWVj1nsuft0H
-m5 https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB?si=44a8bfa80b56495f
-m6 https://open.spotify.com/track/1g0hBXx1GhkGS1yjzgZbku?si=77ca1c5a9769484d
+m1 https://open.spotify.com/track/5jVLMsrAd0gtx6UqlC0NMF?si=cf7c66ff4530446e
+m2 https://open.spotify.com/track/1TYSgBF0FdqmiddlHsdRSk
+m3 https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP
+m4 https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB
+m5 https://open.spotify.com/track/5m0f8vdqvEElUgJRXnOxqy
+m6 https://open.spotify.com/track/2RWTpvt4FvyKTZ6OtFYtFA
 playlist1 https://open.spotify.com/playlist/37i9dQZEVXbINTEnbFeb8d?si=ba9c658fcd0d47d0
 playlist2 https://open.spotify.com/playlist/37i9dQZEVXbKXQ4mDTEBXq?si=f42b982572cc4bc3
-playlist3 https://open.spotify.com/playlist/37i9dQZF1DX328xs24cFGI?si=021d39d74b6f4a08
+playlist3 https://open.spotify.com/playlist/37i9dQZEVXcWoXxsxH2DtG?si=689d330c366d41f2
